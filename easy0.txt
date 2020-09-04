@@ -1,0 +1,312 @@
+abandon<v<bỏ, từ bỏ 
+absolute<adj<tuyệt đối, hoàn toàn 
+accidental<adj<tình cờ, bất ngờ 
+acid<n<axit 
+add<v<cộng, thêm vào 
+adopt<v<nhận làm con nuôi, bố mẹ nuôi 
+affect<v<làm ảnh hưởng, tác động đến 
+agency<n<tác dụng, lực; môi giới, trung gian 
+aircraft<n<máy bay, khí cầu 
+almost<adv<hầu như, gần như 
+alter<v<thay đổi, biến đổi, sửa đổi 
+amuse<v<làm cho vui, thích, làm buồn cười 
+animal<n<động vật, thú vật 
+answer<n, v<sự trả lời; trả lời 
+appeal<n, v<sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn 
+approval<n<sự tán thành, đồng ý, sự chấp thuận 
+around<adv, prep<xung quanh, vòng quanh 
+artist<n<nghệ sĩ 
+assistance<n<sự giúp đỡ 
+attempt<n, v<sự cố gắng, sự thử; cố gắng, thử 
+author<n<tác giả 
+awful<adj<oai nghiêm, dễ sợ 
+bake<v<nung, nướng bằng lò 
+base<n, v<cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì 
+bear<v<mang, cầm, vác, đeo, ôm 
+beef<n<thịt bò 
+bell<n<cái chuông, tiếng chuông 
+betting<n<sự đánh cuộc 
+bite<v, n<cắn, ngoạm; sự cắn, sự ngoạm 
+blood<n<máu, huyết; sự tàn sát, chem giết 
+boot<n<giày ống 
+bowl<n<cái bát 
+breakfast<n<bữa điểm tâm, bữa sáng 
+bright<adj<sáng, sáng chói 
+bubble<n<bong bóng, bọt, tăm 
+bus<n<xe buýt 
+bye<exclamation<tạm biệt 
+camp<n, v<trại, chỗ cắm trại; cắm trại, hạ trại 
+capture<v, n<bắt giữ, bắt; sự bắt giữ, sự bị bắt 
+carrot<n<củ cà rốt 
+cease<v<dừng, ngừng, ngớt, thôi, hết, tạnh 
+uncertain<adj<thiếu chính xác, không chắc chắn 
+character<n<tính cách, đặc tính, nhân vật 
+cheek<n<má 
+child<n<đứa bé, đứa trẻ 
+circumstance<n<, ˈsɜrkəmˌstəns/ hoàn cảnh, trường hợp, tình huống 
+clearly<adv<rõ ràng, sáng sủa 
+closed<adj<bảo thủ, không cởi mở, khép kín 
+code<n<mật mã, luật, điều lệ 
+column<n<cột , mục (báo) 
+comment<n, v<lời bình luận, lời chú giải; bình luận, phê bình, chú thích, 
+community<n<dân chúng, nhân dân 
+completely<adv<hoàn thành, đầy đủ, trọn vẹn 
+concerning<prep<bâng khuâng, ái ngại 
+confidently<adv<tự tin 
+connect<v<kết nối, nối 
+constant<adj<kiên trì, bền lòng 
+content<n<nội dung, sự hài lòng 
+contribute<v<đóng góp, ghóp phần 
+cook<v, n<nấu ăn, người nấu ăn 
+cotton<n<bông, chỉ, sợi 
+course<n<tiến trình, quá trình diễn tiến; sân chạy đua 
+crazy<adj<điên, mất trí 
+critical<adj<phê bình, phê phán; khó tính 
+cry<v, n<khóc, kêu la; sự khóc, tiếng khóc, sự kêu la 
+curly<adj<quăn, xoắn 
+cycle<n, v<chu kỳ, chu trình, vòng; quay vòng theo chu kỳ, đi xe đạp 
+dangerous<adj<nguy hiểm 
+dear<adj<thân, thân yêu, thân mến; kính thưa, thưa 
+decorate<v<trang hoàng, trang trí 
+definition<n<sự định nghĩa, lời định nghĩa 
+demand<n, v<sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu 
+depth<n<chiều sâu, độ dày 
+desperate<adj<liều mạng, liều lĩnh; tuyệt vọng 
+develop<v<phát triển, mở rộng; trình bày, bày tỏ 
+dying<adj<sự chết 
+directly<adv<trực tiếp, thẳng 
+disappoint<v<không làm thỏa ước nguyện, ý mong đợi; thất ước, làm thất 
+discovery<n<sự khám phá, sự tìm ra, sự phát hiện ra 
+disk<n<đĩa, đĩa hát 
+disturb<v<làm mất yên tĩnh, làm náo động, quấy rầy 
+domestic<adj<vật nuôi trong nhà, (thuộc) nội trợ, quốc nội 
+draft<n, adj, v<bản phác thảo, sơ đồ thiết kế; phác thảo, thiết kế 
+drink<n, v<đồ uống; uống 
+dull<adj<chậm hiểu, ngu đần 
+east<n, adj, adv<hướng đông, phía đông, (thuộc) đông, ở phía đông 
+educate<v<giáo dục, cho ăn học; rèn luyện 
+either<det, pron, adv<mỗi, một; cũng phải thế 
+element<n<yếu tôd, nguyên tố 
+emotional<adj<cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm 
+empty<adj, v<trống, rỗng; đổ, dốc; uống, làm cạn 
+engaged<adj<đã đính ước, đã hứa hôn; đã có người 
+enter<v<đi vào, gia nhập 
+entrance<n<sự đi vào, sự nhậm chức 
+especially<adv<đặc biệt là, nhất là 
+event<n<sự việc, sự kiện 
+exaggerate<v<cường điệu, phóng đại 
+exciting<adj<hứng thú, thú vị 
+exist<v<tồn tại, sống 
+expensive<adj<đắt 
+export<v, n<xuất khẩu; hàng xuất khẩu, sự xuất khẩu 
+extremely<adv<vô cùng, cực độ 
+faintly<adv<nhút nhát, yếu ớt 
+fame<n<tên tuổi, danh tiếng 
+farmer<n<nông dân, người chủ trại 
+federal<adj<liên bang 
+fever<n<cơn sốt, bệnh sốt 
+finally<adv<cuối cùng, sau cùng 
+firmly<adv<vững chắc, kiên quyết 
+flight<n<sự bỏ chạy, rút chạy; sự bay, chuyến bay 
+focus<v, n<tập trung; trung tâm, trọng tâm (nbóng) 
+forecast<n, v<sự dự đoán, dự báo; dự đoán, dự báo 
+formerly<adv<trước đây, thuở xưa 
+freeze<v<đóng băng, đông lạnh 
+frighten<v<làm sợ, làm hoảng sợ 
+fully<adv<đầy đủ, hoàn toàn 
+gain<v, n<lợi, lợi ích; giành được, kiếm được, đạt tới 
+gather<v<tập hợp; hái, lượm, thu thập 
+gentleman<n<người quý phái, người thượng lưu 
+glad<adj<vui lòng, sung sướng 
+goods<n<của cải, tài sản, hàng hóa 
+grand<adj<rộng lớn, vĩ đại 
+grave<n, adj<mộ, dấu huyền; trang nghiêm, nghiêm trọng 
+guard<n, v<cái chắn, người bảo vệ; bảo vệ, gác, canh giữ 
+half<n, det, pron, adv<một nửa, phần chia đôi, nửa giờ; nửa 
+happily<adv<sung sướng, hạnh phúc 
+he<pron<nó, anh ấy, ông ấy 
+heating<n<sự đốt nóng, sự làm nóng 
+hence<adv<sau đây, kể từ đây; do đó, vì thế 
+highlight<v, n<làm nổi bật, nêu bật; chỗ nổi bật nhất, đẹp, sáng nhất 
+hold<v, n<cầm, nắm, giữ; sự cầm, sự nắm giữ 
+hope<v, n<hy vọng; nguồn hy vọng 
+house<n<nhà, căn nhà, toàn nhà 
+hunting<n<sự đi săn 
+if<conj<nếu, nếu như 
+immediate<adj<lập tức, tức thì 
+importantly<adv<quan trọng, trọng yếu 
+inability<n<sự bất lực, bất tài 
+independent<adj<độc lập 
+industrial<adj<(thuộc) công nghiệp, kỹ nghệ 
+information<n<tin tức, tài liệu, kiến thức 
+innocent<adj<vô tội, trong trắng, ngây thơ 
+instruction<n<sự dạy, tài liệu cung cấp 
+interest<n, v<or /ˈɪntrest/ sự thích thú, sự quan tâm, chú ý; làm quan tâm, 
+interval<n<khoảng (k-tgian), khoảng cách 
+investment<n<sự đầu tư, vốn đầu tư 
+issue<n, v<BrE also ɪsjuː/ sự phát ra, sự phát sinh; phát hành, đưa ra 
+join<v<gia nhập, tham gia; nối, chắp, ghép 
+junior<adj, n<trẻ hơn, ít tuổi hơn; người ít tuổi hơn 
+kid<n<con dê non 
+kilometre<n<Kilômet 
+knowledge<n<sự hiểu biết, tri thức 
+lane<n<đường nhỏ (làng, hẻm phố) 
+law<n<luật 
+learn<v<lə:n/ học, nghiên cứu 
+lend<v<cho vay, cho mượn 
+lie<v, n<nói dối; lời nói dối, sự dối trá 
+limited<adj<hạn chế, có giới hạn 
+living<adj<sống, đang sống 
+lock<v, n<khóa; khóa 
+lost<adj<thua, mất 
+lucky<adj<gặp may, gặp may mắn, hạnh phúc 
+mail<n, v<thư từ, bưu kiện; gửi qua bưu điện 
+manage<v<quản lý, trông nom, điều khiển 
+marketing<n<ma-kết-tinh 
+material<n, adj<nguyên vật liệu; vật chất, hữu hình 
+means<n<của cải, tài sản, phương tiện 
+meeting<n<cuộc mít tinh, cuộc biểu tình 
+merely<adv<chỉ, đơn thuần 
+military<adj<(thuộc) quân đội, quân sự 
+mirror<n<gương 
+model<n<mẫu, kiểu mẫu 
+more<det, pron, adv<hơn, nhiều hơn 
+mouse<n<- mauz/ chuột 
+museum<n<bảo tàng 
+name<n, v<tên; đặt tên, gọi tên 
+nearly<adv<gần, sắp, suýt 
+nephew<n<cháu trai (con anh, chị, em) 
+newly<adv<mới 
+noisy<adj<ồn ào, huyên náo 
+not<adv<không 
+nut<n<quả hạch; đầu 
+occasionally<adv<thỉnh thoảng, đôi khi 
+offend<v<xúc phạm, làm bực mình, làm khó chịu 
+old<adj<già 
+operate<v<hoạt động, điều khiển 
+orange<n, adj<quả cam; có màu da cam 
+our<det<của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình 
+over<adv, prep<bên trên, vượt qua; lên, lên trên 
+packet<n<gói nhỏ 
+panel<n<ván ô (cửa, tường), pa nô 
+partly<adv<đến chừng mực nào đó, phần nào đó 
+path<n<đường mòn; hướng đi 
+pen<n<bút 
+performance<n<sự làm, sự thực hiện, sự thi hành, sự biểu diễn 
+personally<adv<đích thân, bản thân, về phần rôi, đối với tôi 
+physical<adj<vật chất; (thuộc) cơ thể, thân thể 
+pilot<n<phi công 
+plane<n<mặt phẳng, mặt bằng 
+unpleasant<adj<không dễ chịu, khó chịu, khó ưa 
+poem<n<bài thơ 
+politely<adv<lễ phép, lịch sự 
+population<n<dân cư, dân số; mật độ dân số 
+post<n, v<thư, bưu kiện; gửi thư 
+practical<adj<thực hành; thực tế 
+premises<n<biệt thự 
+pressure<n<sức ép, áp lực, áp suất 
+primary<adj<nguyên thủy, đầu tiên; thời cổ đại, nguyên sinh; sơ cấp, tiểu 
+prison<n<nhà tù 
+process<n, v<quá trình, sự tiến triển, quy trình; chế biến, gia công, xử lý 
+progress<n, v<sự tiến tới, sự tiến triển; tiến bộ, tiến triển, phát triển 
+properly<adv<một cách đúng đắn, một cách thích đáng 
+proudly<adv<một cách tự hào, một cách hãnh diện 
+pull<v, n<lôi, kéo, giật; sự lôi kéo, sự giật 
+push<v, n<xô đẩy; sự xô đẩy 
+quick<adj<nhanh 
+rail<n<đường ray 
+rather<adv<thà còn hơn, thích hơn 
+really<adv<thực, thực ra, thực sự 
+receive<v<nhận, lĩnh, thu 
+red<adj, n<đỏ; màu đỏ 
+regarding<prep<về, về việc, đối với (vấn đề) 
+relation<n<mối quan hệ, sự liên quan, liên lạc 
+religious<adj<(thuộc) tôn giáo 
+removal<n<viêc di chuyển, việc dọn nhà, dời đi 
+report<v, n<báo cáo, tường trình; bản báo cáo, bản tường trình 
+reservation<n<sự hạn chế, điều kiện hạn chế 
+response<n<sự trả lời, câu trả lời, sự hưởng ứng, sự đáp lại 
+retain<v<giữ lại, nhớ được 
+revolution<n<cuộc cách mạng 
+right<adj, adv, n<thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, tốt, bên 
+role<n<vai (diễn), vai trò 
+rounded<adj<bị làm thành tròn; phát triển đầy đủ 
+ruler<n<người cai trị, người trị vì; thước kẻ 
+sadness<n<sự buồn rầu, sự buồn bã 
+salt<n<muối 
+save<v<cứu, lưu 
+scientific<adj<(thuộc) khoa học, có tính khoa học 
+search<n, v<sự tìm kiếm, sự thăm dò, sự điều tra; tìm kiếm, thăm dò, điều tra 
+security<n<sự an toàn, sự an ninh 
+send<v<gửi, phái đi 
+serious<adj<đứng đắn, nghiêm trang 
+severely<adv<khắt khe, gay gắt (thái độ, cư xử); giản dị, mộc mạc (kiểu 
+shame<n<sự xấu hổ, thẹn thùng, sự ngượng 
+shelf<n<kệ, ngăn, giá 
+shocked<adj<bị kích động, bị va chạm, bị sốc 
+shout<v, n<hò hét, reo hò; sự la hét, sự hò reo 
+signal<n, v<dấu hiệu, tín hiệu; ra hiệu, báo hiệu 
+similarly<adv<tương tự, giống nhau 
+sink<v<chìm, lún, đắm 
+skirt<n<váy, đầm 
+slow<adj<chậm, chậm chạp 
+smoothly<adv<một cách êm ả, trôi chảy 
+softly<adv<một cách mềm dẻo 
+sometimes<adv<thỉnh thoảng, đôi khi 
+sound<n, v<âm thanh; nghe 
+speaker<n<người nói, người diễn thuyết 
+spend<v<tiêu, xài 
+sport<n<thể thao 
+stair<n<bậc thang 
+statue<n<tượng 
+steeply<adv<dốc, cheo leo 
+stock<n<kho sự trữ, hàng dự trữ, vốn 
+strange<adj<xa lạ, chưa quen 
+strictly<adv<một cách nghiêm khắc 
+structure<n<kết cấu, cấu trúc 
+substantial<adj<thực tế, đáng kể, quan trọng 
+suddenly<adv<thình lình, đột ngột 
+suitable<adj<hợp, phù hợp, thích hợp với 
+supporter<n<vật chống đỡ; người cổ vũ, người ủng hộ 
+surrounding<adj<sự vây quanh, sự bao quanh 
+sweater<n<người ra mồ hôi,, kẻ bóc lột lao động 
+symbol<n<biểu tượng, ký hiệu 
+tall<adj<cao 
+teach<v<dạy 
+temporarily<adv<tạm 
+than<prep, conj<hơn 
+there<adv<ở nơi đó, tại nơi đó 
+thinking<n<sự suy nghĩ, ý nghĩ 
+threatening<adj<sự đe dọa, sự hăm dọa 
+tie<v, n<buộc, cột, trói; dây buộc, daay trói, dây giày 
+title<n<đầu đề, tiêu đề; tước vị, tư cách 
+tonight<adv, n<vào đêm nay, vào tối nay; đêm nay, tối nay 
+tour<n, v<cuộc đo du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch 
+tradition<n<truyền thống 
+transparent<adj<trong suốt; dễ hiểu, sáng sủa 
+trip<n, v<cuộc dạo chơi, cuộc du ngoạn; đi dạo, du ngoạn 
+tunnel<n<đường hầm, hang 
+ultimate<adj<cuối cùng, sau cùng 
+under<prep, adv<dưới, ở dưới; ở phía dưới, về phía dưới 
+unfortunate<adj<không may, rủi ro, bất hạnh 
+unite<v<liên kết, hợp nhất, hợp lại, kết thân 
+unlucky<lucky<không gặp may, không may mắn 
+upset<v, adj<làm đổ, đánh đổ 
+useful<adj<hữu ích, giúp ích 
+valuable<adj<có giá trị lớn, đáng giá 
+vehicle<n<xe cộ 
+village<n<làng, xã 
+vital<adj<(thuộc) sự sống, cần cho sự sống 
+wall<n<tường, vách 
+washing<n<sự tắm rửa, sự giặt 
+weapon<n<vũ khí 
+welcome<v, adj, n, exclamation<chào mừng, hoan nghênh 
+where<adv, conj<đâu, ở đâu; nơi mà 
+whole<adj, n<bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, 
+willing<adj<bằng lòng, vui lòng, muốn 
+wine<n<rượu, đồ uống 
+without<prep<, wɪθaʊt/ không, không có 
+working<adj<sự làm, sự làm việc 
+wrap<v<gói, bọc, quấn 
+yawn<v, n<há miệng; cử chỉ ngáp 
+zone<n<khu vực, miền, vùng 
