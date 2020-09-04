@@ -1,2 +1,2 @@
-3000_ielts.txt
-easy1.txt
+3000_ielts
+easy1
