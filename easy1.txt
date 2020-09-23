@@ -59,7 +59,7 @@ contest<n<cuộc thi, trận đấu, cuộc tranh luận, cuộc chiến đấu,
 contribution<n<sự đóng góp, sự góp phần 
 cooking<n<sự nấu ăn, cách nấu ăn 
 cough<v, n<ho, sự ho, tiếng hoa 
-court<n<, koʊrt/ sân, sân (tennis), tòa án, quan tòa, phiên tòa 
+court<n<sân, sân (tennis), tòa án, quan tòa, phiên tòa 
 cream<n<kem 
 criticism<n<sự phê bình, sự phê phán, lời phê bình, lời phê phán 
 cultural<adj<(thuộc) văn hóa 
@@ -105,7 +105,7 @@ familiar<adj<thân thiết, quen thộc
 fashion<n<mốt, thời trang 
 fee<n<tiền thù lao, học phí 
 few<det, adj, pron<ít,vài; một ít, một vài 
-finance<n, v<, ˈfaɪnæns/ tài chính; tài trợ, cấp vốn 
+finance<n, v<tài chính; tài trợ, cấp vốn 
 fish<n, v<cá, món cá; câu cá, bắt cá 
 float<v<nổi, trôi, lơ lửng 
 fold<v, n<gấp, vén, xắn; nếp gấp 
@@ -114,7 +114,6 @@ formula<n<công thức, thể thức, cách thức
 frozen<adj<lạnh giá 
 frightening<adj<kinh khủng, khủng khiếp 
 fun<n, adj<sự vui đùa, sự vui thích; hài hước 
-gallon<n<Galông 1gl = 4, 54 lít ở Anh, 3, 78 lít ở Mỹ 
 gear<n<cơ cấu, thiết bị, dụng cụ 
 genuine<adj<thành thật, chân thật; xác thực 
 glass<n<kính, thủy tinh, cái cốc, ly 
@@ -131,7 +130,7 @@ hill<n<đồi
 hole<n<lỗ, lỗ trống; hang 
 horizontal<adj<(thuộc) chân trời, ở chân trời; ngang, nằm ngang (trục 
 housing<n<nơi ăn chốn ở 
-hurry<v, n<, ˈhʌri/ sự vội vàng, sự gấp rút 
+hurry<v, n<sự vội vàng, sự gấp rút 
 ignore<v<phớt lờ, tỏ ra không biết đến 
 immediately<adv<ngay lập tức 
 unimportant<adj<khônh quan trọng, không trọng đại 
@@ -139,7 +138,7 @@ inch<n<insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm)
 independently<adv<độc lập 
 industry<n<công nghiệp, kỹ nghệ 
 ingredient<n<phần hợp thành, thành phần 
-(enquiry<n<sự điều tra, sự thẩm vấn) 
+enquiry<n<sự điều tra, sự thẩm vấn)
 instrument<n<dụng cụ âm nhạc khí 
 interesting<adj<làm thích thú, làm quan tâm, làm chú ý 
 interview<n, v<cuộc phỏng vấn, sự gặp mặt; phỏng vấn, nói chuyện riêng 
@@ -151,14 +150,14 @@ kill<v<giết, tiêu diệt
 knee<n<đầu gối 
 litre<n<lít 
 language<n<ngôn ngữ 
-lawyer<n<, ˈlɔɪər/  luật sư 
+lawyer<n<luật sư 
 least<det, pron, adv<tối thiểu; ít nhất 
 length<n<chiều dài, độ dài 
 life<n<đời, sự sống 
 line<n<dây, đường, tuyến 
 lively<adj<sống, sinh động 
 logic<n<lô gic 
-loss<n<, lɒs/ sự mất, sự thua 
+loss<n<sự mất, sự thua 
 unlucky<adj<không gặp may, bất hạnh 
 main<adj<chính, chủ yếu, trọng yếu nhất 
 management<n<sự quản lý, sự trông nom, sự điều khiển 
@@ -171,7 +170,7 @@ milk<n<sữa
 miss<v, n<lỡ, trượt; sự trượt, sự thiếu vắng 
 modern<adj<hiện đại, tân tiến 
 moreover<adv<hơn nữa, ngoài ra, vả lại 
-mouth<n<- mauð/ miệng 
+mouth<n<miệng 
 music<n<nhạc, âm nhạc 
 narrow<adj<hẹp, chật hẹp 
 neat<adj<sạch, ngăn nắp; rành mạch 
@@ -186,7 +185,7 @@ on<prep, adv<trên, ở trên; tiếp tục, tiếp diễn
 operation<n<sự hoạt động, quá trình hoạt động 
 order<n, v<thứ, bậc; ra lệnh 
 ours<pron<của chúng ta, thuộc chúng ta, của chúng tôi, của chúng mình 
-overall<adj, adv<ˈoʊvərˈɔl ; adj ˈoʊvərˌɔl/  toàn bộ, toàn thể; tất cả, bao gồm 
+overall<adj, adv<toàn bộ, toàn thể; tất cả, bao gồm 
 pain<n<sự đau đớn, sự đau khổ 
 pants<n<quần lót, đùi 
 partner<n<đối tác, cộng sự 
@@ -197,7 +196,7 @@ personality<n<nhân cách, tính cách; nhân phẩm, cá tính
 physically<adv<về thân thể, theo luật tự nhiên 
 pin<n, v<đinh ghim; ghim, kẹp 
 planet<n<hành tinh 
-please<exclamation, v<làm vui lòng, vừa lòng, mong vui lòng, xin mời 
+please<v<làm vui lòng, vừa lòng, mong vui lòng, xin mời 
 poetry<n<thi ca; chất thơ 
 political<adj<về chính trị, về chính phủ, có tính chính trị 
 port<n<cảng 
@@ -208,7 +207,7 @@ presumably<adv<có thể được, có lẽ
 primarily<adv<trước hết, đầu tiên 
 prisoner<n<tù nhân 
 produce<v<sản xuất, chế tạo 
-project<n, v<ˈprɒdʒɛkt , ˈprɒdʒɪkt ; v prəˈdʒɛkt/ đề án, dự án, kế hoạch; dự kiến, 
+project<n, v<đề án, dự án, kế hoạch; dự kiến, 
 property<n<tài sản, của cải; đất đai, nhà cửa, bất động sản 
 prove<v<chứng tỏ, chứng minh 
 punch<v, n<đấm, thụi; quả đấm, cú thụi 
@@ -216,7 +215,7 @@ put<v<đặt, để, cho vào
 quickly<adv<nhanh 
 rain<n, v<mưa, cơn mưa; mưa 
 raw<adj<sống (# chín), thô, còn nguyên chất 
-realistic<adj<BrE also riə-/ hiện thực 
+realistic<adj<hiện thực 
 recent<adj<gần đây, mới đây 
 reduce<v<giảm, giảm bớt 
 region<n<vùng, miền 
@@ -245,20 +244,20 @@ shape<n, v<hình, hình dạng, hình thù
 shell<n<vỏ, mai; vẻ bề ngoài 
 shoe<n<giày 
 show<v, n<biểu diễn, trưng bày; sự biểu diễn, sự bày tỏ 
-signature<n<, ˈsɪgnəˌtʃʊər/ chữ ký 
+signature<n<chữ ký 
 simple<adj<đơn, đơn giản, dễ dàng 
 sir<n<xưng hô lịch sự Ngài, Ông 
 sky<n<trời, bầu trời 
 slowly<adv<một cách chậm chạp, chậm dần 
 snake<n<con rắn; người nham hiểm, xảo trá 
-software<n<phần mềm (mtính) 
+software<n<phần mềm 
 somewhat<adv<đến mức độ nào đó, hơi, một chút 
 soup<n<xúp, canh, cháo 
 special<adj<đặc biệt, riêng biệt 
 spice<n<gia vị 
 spot<n<dấu, đốm, vết 
 stamp<n, v<tem; dán tem 
-status<n<, ˈstætəs/ tình trạng 
+status<n<tình trạng 
 steer<v<lái (tàu, ô tô) 
 stomach<n<dạ dày 
 strangely<adv<lạ, xa lạ, chưa quen 
@@ -384,7 +383,7 @@ depressed<adj<chán nản, thất vọng, phiền muộn; suy yếu, đình tr�
 desk<n<bàn (học sinh, viết, làm việc) 
 determined<adj<đã được xác định, đã được xác định rõ 
 die<v<chết, từ trần, hy sinh 
-direct<adj, v<dai'rekt/ trực tiếp, thẳng, thẳng thắn; gửi, viết cho ai, điều 
+direct<adj, v<trực tiếp, thẳng, thẳng thắn; gửi, viết cho ai, điều 
 disappear<v<biến mất, biến đi 
 discover<v<khám phá, phát hiện ra, nhận ra 
 dishonestly<adv<bất lương, không lương thiện 
@@ -400,7 +399,7 @@ elegant<adj<thanh lịch, tao nhã
 emotion<n<xự xúc động, sự cảm động, mối xác cảm 
 unemployment<n<sự thất nghiệp, nạn thất nghiệp 
 engage<v<hứa hẹn, cam kết, đính ước 
-ensure<v<, ɛnˈʃɜr/ bảo đảm, chắc chắn 
+ensure<v<bảo đảm, chắc chắn 
 entitle<v<cho tiêu đề, cho tên (sách); cho quyền làm gì 
 escape<v, n<trốn thoát, thoát khỏi; sự trốn thoát, lỗi thoát 
 evening<n<buổi chiều, tối 
@@ -428,7 +427,7 @@ future<n, adj<tương lai
 gate<n<cổng 
 gently<adv<nhẹ nhàng, êm ái, dịu dàng 
 give<v<cho, biếu, tặng 
-goodbye<exclamation, n<tạm biệt; lời chào tạm biệt 
+goodbye<n<tạm biệt; lời chào tạm biệt 
 grammar<n<văn phạm 
 grateful<adj<biết ơn, dễ chịu, khoan khoái 
 guarantee<n, v<sự bảo hành, bảo lãnh, người bảo lãnh; cam đoan, bảo đảm 
@@ -450,7 +449,7 @@ independence<n<sự độc lập, nền độc lập
 indoor<adj<trong nhà 
 informal<adj<không chính thức, không nghi thức 
 inner<adj<ở trong, nội bộ; thân cận 
-institution<n<,insti'tju:ʃn ; US ,insti'tu:ʃn/ sự thành lập, lập; cơ quan, trụ sở 
+institution<n<sự thành lập, lập; cơ quan, trụ sở 
 intention<n<ý định, mục đích 
 interruption<n<sự gián đoạn, sự ngắt lời 
 investigation<n<sự điều tra, nghiên cứu 
@@ -479,8 +478,8 @@ meet<v<gặp, gặp gỡ
 mere<adj<chỉ là 
 mile<n<dặm (đo lường) 
 minute<n<phút 
-mobile<adj<'məʊbi:l/ chuyển động, di động 
-moral<adj<, ˈmɒrəl/ (thuộc) đạo đức, luân lý, phẩm hạnh; có đạo đức 
+mobile<adj<chuyển động, di động 
+moral<adj<(thuộc) đạo đức, luân lý, phẩm hạnh; có đạo đức 
 mountain<n<núi 
 muscle<n<cơ, bắp thịt 
 naked<adj<trần, khỏa thân, trơ trụi 
@@ -498,7 +497,7 @@ option<n<sự lựa chọn
 otherwise<adv<khác, cách khác; nếu không thì; mặt khác 
 oven<n<lò (nướng) 
 packaging<n<bao bì 
-pan<n<- pɑ:n/ xoong, chảo 
+pan<n<xoong, chảo 
 particularly<adv<một cách đặc biệt, cá biệt, riêng biệt 
 past<adj, n, prep, adv<quá khứ, dĩ vãng; quá, qua 
 peak<n<lưỡi trai; đỉnh, chóp 
@@ -595,20 +594,18 @@ touch<v, n<sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
 trading<n<sự kinh doanh, việc mua bán 
 translation<n<sự dịch 
 trick<n, v<mưu mẹo, thủ đoạn, trò lừa gatj; lừa, lừa gạt 
-tune<n, v<, tyun/ điệu, giai điệu; lên dây, so dây (đàn) 
+tune<n, v<điệu, giai điệu; lên dây, so dây (đàn) 
 ugly<adj<xấu xí, xấu xa 
-uncontrolled<control<không bị kiềm chế, không bị kiểm tra 
-unemployment<employment<sự thất nghiệp, tình trạng thất nghiệp 
 unit<n<đơn vị 
 unload<load<tháo, dỡ 
 upper<adj<cao hơn 
 used<adj<đã dùng, đã sử dụng 
 valley<n<thung lũng 
-vegetable<n<, ˈvɛdʒɪtəbəl/ rau, thực vật 
+vegetable<n<rau, thực vật 
 view<n, v<sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát 
 visitor<n<khách, du khách 
 walking<n<sự đi, sự đi bộ 
-wash<v<, wɔʃ/ rửa, giặt 
+wash<v<rửa, giặt 
 wealth<n<sự giàu có, sự giàu sang 
 weight<n<trọng lượng 
 whenever<conj<bất cứ lúc nào, lúc nào 

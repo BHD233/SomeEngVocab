@@ -15,7 +15,6 @@ anxiety<n<mối lo âu, sự lo lắng
 appearance<n<sự xuất hiện, sự trình diện 
 approximately<adv<khoảng chừng, độ chừng 
 arrangement<n<sự sắp xếp, sắp đặt, sự sửa soạn 
-as<prep, adv, conj<như (as you know…) 
 associate<v<kết giao, liên kết, kết hợp, cho cộng tác 
 attend<v<dự, có mặt 
 automatic<adj<tự động 
@@ -73,7 +72,7 @@ dentist<n<nha sĩ
 describe<v<diễn tả, miêu tả, mô tả 
 despite<prep<dù, mặc dù, bất chấp 
 device<n<kế sách; thiết bị, dụng cụ, máy móc 
-difference<n<, ˈdɪfrəns/ sự khác nhau 
+difference<n<sự khác nhau 
 director<n<giám đốc, người điều khiển, chỉ huy 
 disappointed<adj<thất vọng 
 discussion<n<sự thảo luận, sự tranh luận 
@@ -118,7 +117,7 @@ gamble<v, n<đánh bạc; cuộc đánh bạc
 general<adj<chung, chung chung; tổng 
 genuinely<adv<thành thật, chân thật 
 glove<n<bao tay, găng tay 
-government<n<, ˈgʌvərmənt/ chính phủ, nội các; sự cai trị 
+government<n<chính phủ, nội các; sự cai trị 
 granddaughter<n<cháu gái 
 greatly<adv<rất, lắm; cao thượng, cao cả 
 guest<n<khách, khách mời 
@@ -142,7 +141,7 @@ initial<adj, n<ban đầu, lúc đầu; chữ đầu (của 1 tên gọi)
 insect<n<sâu bọ, côn trùng 
 insult<v, n<lăng mạ, xỉ nhục; lời lăng mạ, sự xỉ nhục 
 interior<n, adj<phần trong, phía trong; ở trong, ở phía trong 
-into<prep<or /'intə/ vào, vào trong 
+into<prep<vào, vào trong 
 invite<v<mời 
 item<n<tin tức; khoản, món, tiết mục 
 jointly<adv<cùng nhau, cùng chung 
@@ -179,7 +178,7 @@ nervous<adj<hoảng sợ, dễ bị kích thích, hay lo lắng
 newspaper<n<báo 
 none<pron<không ai, không người, vật gì 
 nothing<pron<không gì, không cái gì 
-object<n, v<ˈɒbdʒɪkt, ˈɒbdʒɛkt ; v əbˈdʒɛkt/ vật, vật thể; phản đối, chống lại 
+object<n, v<vật, vật thể; phản đối, chống lại 
 occupied<adj<đang sử dụng, đầy (người) 
 offer<v, n<biếu, tặng, cho; sự trả giá 
 once<adv, conj<một lần; khi mà, ngay khi, một khi 
@@ -196,7 +195,7 @@ perhaps<adv<có thể, có lẽ
 persuade<v<thuyết phục 
 physics<n<vật lý học 
 pink<adj, n<màu hồng; hoa cẩm chướng, tình trạng tốt, hoàn hảo 
-plant<n, v<, plɑnt/ thực vật, sự mọc lên; trồng, gieo 
+plant<n, v<thực vật, sự mọc lên; trồng, gieo 
 pleasing<adj<mang lại niềm vui thích; dễ chịu 
 pointed<adj<nhọn, có đầu nhọn 
 politically<adv<về mặt chính trị; khôn ngoan, thận trọng; sảo quyệt 
@@ -288,20 +287,17 @@ trouble<n<điều lo lắng, điều muộn phiền
 twice<adv<hai lần 
 umbrella<n<ô, dù 
 underneath<prep, adv<dưới, bên dưới 
-unfriendly<friendly<đối địch, không thân thiện 
 universe<n<vũ trụ 
-unpleasant<pleasant<không dễ chịu, khó chịu 
 upstairs<adv, adj, n<ở tên gác, cư ngụ ở tầng gác; tầng trên, gác 
 user<n<người dùng, người sử dụng 
 van<n<tiền đội, quân tiên phong; xe tải 
-version<n<bản dịch sang một ngôn ngữ khác 
 violent<adj<mãnh liệt, mạnh mẽ, hung dữ 
 voice<n<tiếng, giọng nói 
 wander<v, n<đi lang thang; sự đi lang thang 
 watch<v, n<nhìn, theo dõi, quan sát; sự canh gác, sự canh phòng 
 weather<n<thời tiết 
 west<n, adj, adv<phía Tây, theo phía tây, về hướng tây 
-wherever<conj<weər'evə(r)/ ở bất cứ nơi nào, ở bất cứ nơi đâu 
+wherever<conj<ở bất cứ nơi nào, ở bất cứ nơi đâu 
 whose<det, pron<của ai 
 unwilling<adj<không sẵn lòng, miễn cưỡng 
 winner<n<người thắng cuộc 
@@ -366,9 +362,9 @@ confidence<n<lòng tin tưởng, sự tin cậy
 congratulations<n<sự chúc mừng, khen ngợi; lời chúc mừng, khen 
 considerably<adv<đáng kể, lớn lao, nhiều 
 container<n<cái đựng, chứa; công te nơ 
-contrast<n, v<or /'kɔntræst / sự tương phản; làm tương phản, làm trái 
+contrast<n, v<sự tương phản; làm tương phản, làm trái 
 convert<v<đổi, biến đổi 
-cost<n, v<, kɒst/ giá, chi phí; trả giá, phải trả 
+cost<n, v<giá, chi phí; trả giá, phải trả 
 couple<n<đôi, cặp; đôi vợ chồng, cặp nam nữ 
 cracked<adj<rạn, nứt 
 crisp<adj<giòn 
@@ -491,7 +487,6 @@ no<exclamation, det<không
 northern<adj<Bắc 
 nuclear<adj<(thuộc) hạt nhân 
 obviously<adv<một cách rõ ràng, có thể thấy được 
-of<prep<or /əv/ của 
 oh<exclamation<chao, ôi chao, chà, này 
 openly<adv<công khai, thẳng thắn 
 opposite<adj, adv, n, prep<đối nhau, ngược nhau; trước mặt, đối diện; điều 
@@ -573,7 +568,7 @@ steel<n<thép, ngành thép
 sting<v, n<châm, chích, đốt; ngòi, vòi (ong, muỗi), nọc (rắn); sự châm, chích 
 straight<adv, adj<thẳng, không cong 
 stretch<v<căng ra, duỗi ra, kéo dài ra 
-strong<adj<, strɒŋ/ khỏe, mạnh, bền, vững, chắc chắn 
+strong<adj<khỏe, mạnh, bền, vững, chắc chắn 
 subject<n<chủ đề, đề tài; chủ ngữ 
 suck<v<bú, hút; hấp thụ, tiếp thu 
 suit<n, v<bộ com lê, trang phục; thích hợp, quen, hợp với 
@@ -615,7 +610,7 @@ when<adv, pron, conj<khi, lúc, vào lúc nào
 white<adj, n<trắng; màu trắng 
 wild<adj<dại, hoang 
 wind<n<gió 
-withdraw<v<, wɪθˈdrɔ/ rút, rút khỏi, rút lui 
+withdraw<v<rút, rút khỏi, rút lui 
 word<n<từ 
 wound<n, v<vết thương, thương tích; làm bị thường, gây thương tích 
 wrongly<adv<một cách bất công, không đúng 

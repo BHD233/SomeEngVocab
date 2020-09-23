@@ -138,7 +138,7 @@ impress<v<ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
 including<prep<bao gồm, kể cả 
 indication<n<sự chỉ, sự biểu thị, sự biểu lộ 
 infect<v<nhiễm, tiêm nhiễm, đầu độc, lan truyền 
-initiative<n<, ɪˈnɪʃətɪv/ bước đầu, sự khởi đầu 
+initiative<n<bước đầu, sự khởi đầu 
 inside<prep, adv, n, adj<mặt trong, phía, phần trong; ở trong, nội bộ 
 insurance<n<sự bảo hiểm 
 international<adj<quốc tế 
@@ -183,7 +183,7 @@ observation<n<sự quan sát, sự theo dõi
 ocean<n<đại dương 
 officer<n<viên chức, cảnh sát, sĩ quan 
 onion<n<củ hành 
-opportunity<n<, ˌɒpərˈtyunɪti/ cơ hội, thời cơ 
+opportunity<n<cơ hội, thời cơ 
 organized<adj<có trật tự, ngăn nắp, được sắp xếp, được tổ chức 
 outdoor<adj<ngoài trời, ở ngoài 
 own<adj, pron, v<của chính mình, tự mình; nhận, nhìn nhận 
@@ -350,7 +350,7 @@ cap<n<mũ lưỡi trai, mũ vải
 careful<adj<cẩn thận, cẩn trọng, biết giữ gìn 
 cat<n<con mèo 
 century<n<thế kỷ 
-chance<n<, tʃɑ:ns/ sự may mắn 
+chance<n<sự may mắn 
 chat<v, n<nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu 
 chest<n<tủ, rương, hòm 
 chop<v<chặt, đốn, chẻ 
@@ -385,7 +385,7 @@ deserve<v<đáng, xứng đáng
 detailed<adj<cặn kẽ, tỉ mỉ, nhiều chi tiết 
 diamond<n<kim cương 
 difficulty<n<sự khó khăn, nỗi khó khăn, điều cản trở 
-disadvantage<n<, ˌdɪsədˈvɑntɪdʒ/sự bất lợi, sự thiệt hại 
+disadvantage<n<sự bất lợi, sự thiệt hại 
 disaster<n<tai họa, thảm họa 
 disgusted<adj<chán ghét, phẫn nộ 
 distinguish<v<phân biệt, nhận ra, nghe ra 
@@ -403,7 +403,7 @@ ending<n<sự kết thúc, sự chấm dứt; phần cuối, kết cục
 enjoyment<n<sự thích thú, sự có được, được hưởng 
 enthusiastic<adj<hăng hái, say mê, nhiệt tình 
 equipment<n<trang, thiết bị 
-estimate<n, v<- 'estimeit/ sự ước lượng, đánh giá; ước lượng, đánh giá 
+estimate<n, v<sự ước lượng, đánh giá; ước lượng, đánh giá 
 evidence<n<điều hiển nhiên, điều rõ ràng 
 except<prep, conj<trừ ra, không kể; trừ phi 
 executive<n, adj<sự thi hành, chấp hành; (thuộc) sự thi hành, chấp hành 
@@ -525,7 +525,7 @@ publication<n<sự công bố; sự xuất bản
 purely<adv<hoàn toàn, chỉ là 
 quantity<n<lượng, số lượng 
 quote<v<trích dẫn 
-rapidly<adv<'ræpidli / nhanh, nhanh chóng 
+rapidly<adv<nhanh, nhanh chóng 
 reading<n<sự đọc 
 reasonably<adv<hợp lý 
 recommend<v<giới thiệu, tiến cử; đề nghị, khuyên bảo 
@@ -563,7 +563,7 @@ slight<adj<mỏng manh, thon, gầy
 smile<v, n<cười, mỉm cười; nụ cười, vẻ tươi cười 
 socially<adv<có tính xã hội 
 solve<v<giải, giải thích, giải quyết 
-sore<adj<, soʊr/ đau, nhức 
+sore<adj<đau, nhức 
 space<n<khoảng trống, khoảng cách 
 speech<n<sự nói, khả năng nói, lời nói, cách nói, bài nói 
 spiritual<adj<(thuộc) tinh thần, linh hồn 
@@ -574,14 +574,14 @@ stiffly<adv<cứng, cứng rắn, kiên quyết
 story<n<chuyện, câu chuyện 
 strength<n<sức mạnh, sức khỏe 
 striped<adj<có sọc, có vằn 
-stupid<adj<, ˈstyupɪd/ ngu ngốc, ngu đần, ngớ ngẩn 
+stupid<adj<ngu ngốc, ngu đần, ngớ ngẩn 
 successfully<adv<thành công, thắng lợi, thành đạt 
 suggest<v<đề nghị, đề xuất; gợi 
 superior<adj<cao, chất lượng cao 
 surprising<adj<làm ngạc nhiên, làm bất ngờ 
 suspicious<adj<có sự nghi ngờ, tỏ ra nghi ngờ, khả nghi 
 swim<v<bơi lội 
-tackle<v, n<or /'teikl/ giải quyết, khắc phục, bàn thảo; đồ dùng, dụng cụ 
+tackle<v, n<giải quyết, khắc phục, bàn thảo; đồ dùng, dụng cụ 
 taste<n, v<vị, vị giác; nếm 
 technology<n<kỹ thuật học, công nghệ học 
 terrible<adj<khủng khiếp, ghê sợ 
@@ -613,7 +613,7 @@ we<pron<chúng tôi, chúng ta
 weekend<n<cuối tuần 
 whatever<det, pron<bất cứ thứ gì, bất kể thứ gì 
 whisper<v, n<nói thì thầm, xì xào; tiếng nói thì thầm, tiếng xì xào 
-width<n<wɪtθ/ tính chất rộng, bề rộng 
+width<n<tính chất rộng, bề rộng 
 winning<adj<đang dành thắng lợi, thắng cuộc 
 wish<v, n<ước, mong muốn; sự mong ước, lòng mong muốn 
 wooden<adj<làm bằng gỗ 

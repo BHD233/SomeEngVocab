@@ -43,7 +43,7 @@ uncertain<adj<thiếu chính xác, không chắc chắn
 character<n<tính cách, đặc tính, nhân vật 
 cheek<n<má 
 child<n<đứa bé, đứa trẻ 
-circumstance<n<, ˈsɜrkəmˌstəns/ hoàn cảnh, trường hợp, tình huống 
+circumstance<n<hoàn cảnh, trường hợp, tình huống 
 clearly<adv<rõ ràng, sáng sủa 
 closed<adj<bảo thủ, không cởi mở, khép kín 
 code<n<mật mã, luật, điều lệ 
@@ -141,10 +141,10 @@ industrial<adj<(thuộc) công nghiệp, kỹ nghệ
 information<n<tin tức, tài liệu, kiến thức 
 innocent<adj<vô tội, trong trắng, ngây thơ 
 instruction<n<sự dạy, tài liệu cung cấp 
-interest<n, v<or /ˈɪntrest/ sự thích thú, sự quan tâm, chú ý; làm quan tâm, 
+interest<n, v<sự thích thú, sự quan tâm, chú ý; làm quan tâm, 
 interval<n<khoảng (k-tgian), khoảng cách 
 investment<n<sự đầu tư, vốn đầu tư 
-issue<n, v<BrE also ɪsjuː/ sự phát ra, sự phát sinh; phát hành, đưa ra 
+issue<n, v<sự phát ra, sự phát sinh; phát hành, đưa ra 
 join<v<gia nhập, tham gia; nối, chắp, ghép 
 junior<adj, n<trẻ hơn, ít tuổi hơn; người ít tuổi hơn 
 kid<n<con dê non 
@@ -152,7 +152,7 @@ kilometre<n<Kilômet
 knowledge<n<sự hiểu biết, tri thức 
 lane<n<đường nhỏ (làng, hẻm phố) 
 law<n<luật 
-learn<v<lə:n/ học, nghiên cứu 
+learn<v<học, nghiên cứu 
 lend<v<cho vay, cho mượn 
 lie<v, n<nói dối; lời nói dối, sự dối trá 
 limited<adj<hạn chế, có giới hạn 
@@ -305,7 +305,7 @@ where<adv, conj<đâu, ở đâu; nơi mà
 whole<adj, n<bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, 
 willing<adj<bằng lòng, vui lòng, muốn 
 wine<n<rượu, đồ uống 
-without<prep<, wɪθaʊt/ không, không có 
+without<prep<không, không có 
 working<adj<sự làm, sự làm việc 
 wrap<v<gói, bọc, quấn 
 yawn<v, n<há miệng; cử chỉ ngáp 

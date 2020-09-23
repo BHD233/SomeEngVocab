@@ -71,7 +71,7 @@ deeply<adv<sâu, sâu xa, sâu sắc
 delicate<adj<thanh nhã, thanh tú, tế nhị, khó xử 
 departure<n<sự rời khỏi, sự đi, sự khởi hành 
 deserted<adj<hoang vắng, không người ở 
-detail<n<dɪˈteɪl , ˈditeɪl ; v dɪˈteɪl/ chi tiết 
+detail<n<chi tiết 
 diagram<n< biểu đồ 
 difficult<adj<khó, khó khăn, gay go 
 disabled<adj<bất lực, không có khă năng 
@@ -203,7 +203,7 @@ pollution<n<sự ô nhiễm
 possess<v<có, chiếm hữu 
 pound<n<pao - đơn vị đo lường 
 precisely<adv<đúng, chính xác, cần thận 
-present<adj, n, v<and /(n)'prezənt/ có mặt, hiện diện; hiện nay, hiện thời; 
+present<adj, n, v<có mặt, hiện diện; hiện nay, hiện thời; 
 previous<adj<vội vàng, hấp tấp; trước (vd ngày hôm trước), ưu tiên 
 print<v, n<in, xuất bản; sự in ra 
 probable<adj<có thể, có khả năng 

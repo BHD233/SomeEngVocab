@@ -67,7 +67,7 @@ curtain<n<màn (cửa, rạp hát, khói, sương)
 daily<adj<hàng ngày 
 data<n<số liệu, dữ liệu 
 debt<n<nợ 
-decrease<v, n<'di:kri:s/ giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút 
+decrease<v, n<giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút 
 deliberate<adj<thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc 
 deny<v<từ chối, phản đối, phủ nhận 
 description<n<sự mô tả, sự tả, sự miêu tả 
@@ -97,7 +97,7 @@ every<det<mỗi, mọi
 examine<v<thẩm tra, khám xét, hỏi han (thí sinh) 
 exclude<v<ngăn chạn, loại trừ 
 expand<v<mở rộng, phát triển, nở, giãn ra 
-experiment<n, v<ɪkˈspɛrəmənt ; v ɛkˈspɛrəˌmɛnt/  cuộc thí nghiệm; thí nghiệm 
+experiment<n, v<cuộc thí nghiệm; thí nghiệm 
 expression<n<sự diễn tả, sự bày tỏ, biểu lộ, sự diễn đạt 
 facility<n<điều kiện dễ dàng, sự dễ dàng, thuận lợi 
 unfair<adj<gian lận, không công bằng; bất lợi 
@@ -167,7 +167,7 @@ May<n<tháng 5
 measurement<n<sự đo lường, phép đo 
 membership<n<tư cách hội viên, địa vị hội viên 
 metal<n<kim loại 
-mineral<n, adj<, ˈmɪnrəl/ công nhân, thợ mỏ; khoáng 
+mineral<n, adj<công nhân, thợ mỏ; khoáng 
 missing<adj<vắng, thiếu, thất lạc 
 moment<n<chốc, lát 
 most<det, pron, adv<lớn nhất, nhiều nhất; nhất, hơn cả 
@@ -210,7 +210,6 @@ privately<adv<riêng tư, cá nhân
 product<n<sản phẩm 
 promotion<n<sự thăng chức, sự thăng cấp 
 proposal<n<sự đề nghị, đề xuất 
-pint<n<panh (= 0, 58 lít (E);=0, 473 lít (A)); 
 punishment<n<sự trừng phạt, sự trừng trị 
 qualify<v<đủ khả năng, đủ tư cách, điều kiện 
 quietly<adv<lặng, yên lặng, yên tĩnh 
@@ -362,7 +361,7 @@ comfortably<adv<dễ chịu, thoải mái, tiện nghi, ấm cúng
 commonly<adv<thông thường, bình thường 
 complain<v<phàn nàn, kêu ca 
 concept<n<khái niệm 
-conference<n<, ˈkɒnfrəns/ hội nghị, sự bàn bạc 
+conference<n<hội nghị, sự bàn bạc 
 confusion<n<sự lộn xộn, sự rối loạn 
 considerable<adj<lớn lao, to tát, đáng kể 
 contain<v<bao hàm, chứa đựng, bao gồm 
@@ -502,14 +501,14 @@ palace<n<cung điện, lâu đài
 part<n<phần, bộ phận 
 passenger<n<hành khách 
 peace<n<hòa bình, sự hòa thuận 
-perfect<adj<pə'fekt/ hoàn hảo 
+perfect<adj<hoàn hảo 
 permit<v<cho phép, cho cơ hội 
 photographer<n<thợ chụp ảnh, nhà nhiếp ảnh 
 pig<n<con lợn 
 plain<adj<ngay thẳng, đơn giản, chất phác 
 player<n<người chơi 1 trò chơi nào đó (nhạc cụ) 
 plug<n<nút (thùng, chậu, bồn) 
-policy<n<si/ chính sách 
+policy<n<chính sách 
 poor<adj<nghèo 
 possibility<n<khă năng, triển vọng 
 powder<n<bột, bụi 
@@ -562,7 +561,7 @@ skill<n<kỹ năng, kỹ sảo
 slightly<adv<mảnh khảnh, mỏng manh, yếu ớt 
 smoke<n, v<khói, hơi thuốc; hút thuốc, bốc khói, hơi 
 society<n<xã hội 
-some<det, pron<or /səm/ một it, một vài 
+some<det, pron<một it, một vài 
 sorry<adj<xin lỗi, lấy làm tiếc, lấy làm buồn 
 spare<adj, n<thừa thãi, dự trữ, rộng rãi; đồ dự trữ, đồ dự phòng 
 speed<n<tốc độ, vận tốc 
