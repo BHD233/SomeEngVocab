@@ -1,10 +1,9 @@
-conjure<a<a
-traits<a<a
-struggles<a<a
-fiancee<a<a
-distress<a<a
-isolated<a<a
-chandelier<a<a
-mental<a<a
-vivid<a<a
-Adamant<a<a
+conjure<v<Van xin
+traits<n<Đặc điểm
+struggles<v<Đấu tranh
+fiancee<n<Vợ chưa cưới
+distress<n<Phiền muộn
+isolated<adj<Bị cô lập
+chandelier<n<Đèn treo
+mental<adj<Thuộc tinh thần
+vivid<adj<Sống Động
